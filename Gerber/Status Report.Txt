@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [TO247 Signal Board.PcbDoc]
+   Generated File[TO247 Signal Board.TXT]
+   Generated File[TO247 Signal Board.LDP]
+   Generated File[TO247 Signal Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 00:44:14 On 11/07/2023

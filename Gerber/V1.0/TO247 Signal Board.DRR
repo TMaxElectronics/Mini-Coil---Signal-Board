@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: TO247 Signal Board.PcbDoc   10/05/2023  21:27:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : TO247 Signal Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.711mm (28mil)                                           Round             11        PTH        278.91mm (10.98inch)
+T2      0.8mm (31mil)                                             Round             4         PTH        17.37mm (0.68inch)
+T3      0.9mm (35mil)                                             Round             73        PTH        884.18mm (34.81inch)
+T4      1mm (39mil)                                               Round             20        PTH        365.57mm (14.39inch)
+T5      1.25mm (49mil)                                            Round             2         PTH        8.01mm (0.32inch)
+T6      1.5mm (59mil)                                             Round             6         PTH        61.58mm (2.42inch)
+T7      3.2mm (126mil)                                            Round             6         PTH        407.32mm (16.04inch)
+T8      4mm (157mil)                                              Round             8         PTH        633.45mm (24.94inch)
+T9      5.5mm (217mil)                                            Round             2         PTH        16.00mm (0.63inch)
+T10     12mm (472mil)                                             Round             2         PTH        21.53mm (0.85inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              134
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: F:\OneDrive\Altium\Projects\TO247 Bridge\TO247 Signal Board\TO247 Signal Board.PcbDoc
+RuleKind=Clearance|RuleName=HV_G4|Scope=Board|Minimum=157.48
+RuleKind=Clearance|RuleName=HV_G3|Scope=Board|Minimum=157.48
+RuleKind=Clearance|RuleName=HV_G2|Scope=Board|Minimum=157.48
+RuleKind=Clearance|RuleName=HV_G1|Scope=Board|Minimum=157.48
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.02
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
